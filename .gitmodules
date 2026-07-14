@@ -1,0 +1,48 @@
+[submodule "NKU_Data_Security"]
+	path = NKU_Data_Security
+	url = https://github.com/le-77-rrg/NKU_Data_Security.git
+[submodule "ics2017"]
+	path = ics2017
+	url = https://github.com/le-77-rrg/ics2017.git
+[submodule "NKU-Speech-Information-Processing"]
+	path = NKU-Speech-Information-Processing
+	url = https://github.com/le-77-rrg/NKU-Speech-Information-Processing.git
+[submodule "NKU-College-Physics-Experiment"]
+	path = NKU-College-Physics-Experiment
+	url = https://github.com/le-77-rrg/NKU-College-Physics-Experiment.git
+[submodule "NKU_Computer_Architecture"]
+	path = NKU_Computer_Architecture
+	url = https://github.com/le-77-rrg/NKU_Computer_Architecture.git
+[submodule "NKU_CG"]
+	path = NKU_CG
+	url = https://github.com/le-77-rrg/NKU_CG.git
+[submodule "NKU_Software_Engineering"]
+	path = NKU_Software_Engineering
+	url = https://github.com/le-77-rrg/NKU_Software_Engineering.git
+[submodule "NKU_computer_network"]
+	path = NKU_computer_network
+	url = https://github.com/le-77-rrg/NKU_computer_network.git
+[submodule "NKU-Internet-Database-Development"]
+	path = NKU-Internet-Database-Development
+	url = https://github.com/le-77-rrg/NKU-Internet-Database-Development.git
+[submodule "NKU_Compilers"]
+	path = NKU_Compilers
+	url = https://github.com/le-77-rrg/NKU_Compilers.git
+[submodule "NKU_Algorithm"]
+	path = NKU_Algorithm
+	url = https://github.com/le-77-rrg/NKU_Algorithm.git
+[submodule "NKU_Parallel"]
+	path = NKU_Parallel
+	url = https://github.com/le-77-rrg/NKU_Parallel.git
+[submodule "NKU_principles-of-computer-organization"]
+	path = NKU_principles-of-computer-organization
+	url = https://github.com/le-77-rrg/NKU_principles-of-computer-organization.git
+[submodule "NKU_Introduction_to_AI"]
+	path = NKU_Introduction_to_AI
+	url = https://github.com/le-77-rrg/NKU_Introduction_to_AI.git
+[submodule "NKU_Software_Security"]
+	path = NKU_Software_Security
+	url = https://github.com/le-77-rrg/NKU_Software_Security.git
+[submodule "NKU_DATABASE_SYSTEM"]
+	path = NKU_DATABASE_SYSTEM
+	url = https://github.com/le-77-rrg/NKU_DATABASE_SYSTEM.git
